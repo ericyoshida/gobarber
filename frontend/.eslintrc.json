@@ -28,6 +28,8 @@
       "@typescript-eslint/explicit-module-boundary-types": "off",
       "no-use-before-define": "off",
       "@typescript-eslint/no-use-before-define": "warn",
+      "@typescript-eslint/ban-types": "off",
+      "no-console": "off",
       "prettier/prettier": "error",
       "react/jsx-props-no-spreading": "off",
       "react/prop-types": "off",
